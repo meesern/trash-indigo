@@ -1,0 +1,55 @@
+body {
+  background-color: #300d05;
+  background-color: #FDFDFD;
+  background-color: #FAD1CA;
+  background-color: #F8E4BB;
+  background-size: cover;
+  background-image: url('../images/book-of-love-vol1.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #F6F9FA;
+  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
+    "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans",
+    "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu",
+    "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
+  font-family: 'Gelasio', serif;
+  padding: 2vh 1rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+
+.panel {
+  height: 90vh;
+  background-color: rgba(255,255,255,0.6);
+  width: 420px;
+  color: #39489A;
+  border-radius: .3em;
+  box-shadow: 
+      0px -9px 9px 0 rgba(255,255,255,0.2),
+      9px 9px 9px 0 rgba(0,0,0,0.2);
+}
+
+h1 {
+  padding-top: 0.5em;
+  font-size: 4em;
+}
+
+#amzlogo {
+  padding: 8px;
+  padding-bottom: 4px;
+  padding-top: 1em;
+  margin-top: 1.5em;
+  background-color: rgba(255,255,255,0.6);
+  border-radius: .3em;
+}
+
+a {
+  text-decoration: none;
+}
+
+.middleman-logo {
+  margin-bottom: 1rem;
+  width: 10rem;
+}
